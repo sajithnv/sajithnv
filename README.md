@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sajith NV
 
-💻 Frontend Developer | Angular Specialist | .NET Web API  
+💻 Full Stack Developer | Angular | .NET Web API  
 📍 Bengaluru, India  
 
 I build scalable, high-performance web applications using Angular, RxJS, and .NET Web API.  
